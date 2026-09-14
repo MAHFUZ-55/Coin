@@ -1,0 +1,6 @@
+{
+  "name": "MH MINING",
+  "description": "A modern tap-to-earn Telegram Mini App and Bot platform with energy system, levels, tasks, referrals, wallet, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
